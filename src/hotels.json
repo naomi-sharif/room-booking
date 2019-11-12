@@ -1,0 +1,38 @@
+[
+  {
+    "HotelID": "HOTEL-1",
+    "HotelName": "The Scarborough Hotel",
+    "HotelLocation": "Scarborough",
+    "HotelNumRooms": 5
+  },
+  {
+    "HotelID": "HOTEL-2",
+    "HotelName": "The Leeds Majestic",
+    "HotelLocation": "Leeds",
+    "HotelNumRooms": 10
+  },
+  {
+    "HotelID": "HOTEL-3",
+    "HotelName": "The Sheffield Inn",
+    "HotelLocation": "Sheffield",
+    "HotelNumRooms": 4
+  },
+  {
+    "HotelID": "HOTEL-4",
+    "HotelName": "Doncaster Luxury Appartments",
+    "HotelLocation": "Doncaster",
+    "HotelNumRooms": 8
+  },
+  {
+    "HotelID": "HOTEL-5",
+    "HotelName": "Glasgow Bed and Breakfast",
+    "HotelLocation": "Glasgow",
+    "HotelNumRooms": 3
+  },
+  {
+    "HotelID": "HOTEL-6",
+    "HotelName": "The Bournemouth Guest House",
+    "HotelLocation": "Bournemouth",
+    "HotelNumRooms": 2
+  }
+]

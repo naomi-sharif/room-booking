@@ -1,0 +1,26 @@
+[
+  {
+    "HotelID": "HOTEL-1",
+    "RoomsBooked": 2
+  },
+  {
+    "HotelID": "HOTEL-2",
+    "RoomsBooked": 5
+  },
+  {
+    "HotelID": "HOTEL-3",
+    "RoomsBooked": 4
+  },
+  {
+    "HotelID": "HOTEL-4",
+    "RoomsBooked": 0
+  },
+  {
+    "HotelID": "HOTEL-5",
+    "RoomsBooked": 1
+  },
+  {
+    "HotelID": "HOTEL-6",
+    "RoomsBooked": 2
+  }
+]
